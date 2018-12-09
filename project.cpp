@@ -4,7 +4,7 @@
 #include<string.h>
 #include<windows.h>
 #include<time.h>
-
+#include<math.h>
 
 ///Logic Functions
 
